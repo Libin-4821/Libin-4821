@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi, I'm Libin S 👋
 
-<!--
-**Libin-4821/Libin-4821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a sophomore B.Tech student with specialization in Artificial Intelligence and Data Science at Rajalakshmi Institute of Technology. I'm passionate about solving real-world problems using data, AI, and IoT.
 
-Here are some ideas to get you started:
+## 🚀 My skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming languages: Python
+- Data analysis tools: NumPy, pandas, scikit-learn
+- IoT platforms: Arduino ESP32
+
+## 🌱 What I'm learning
+
+- Data visualization and storytelling
+- Reinforcement learning and game theory
+
+## 💻 Some of my projects
+
+- Smart Irrigation System: An IoT project that controls irrigation of crops using machine learning.
+
+## 📫 How to reach me
+
+- Email: libinsxiia@gmail.com
+- LinkedIn: https://www.linkedin.com/in/libin-s/
+
+## 😄 Fun facts about me
+
+- I love playing football and cricket
+- I enjoy listening to music and podcasts
