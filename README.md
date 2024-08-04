@@ -16,6 +16,7 @@ I'm a sophomore B.Tech student with specialization in Artificial Intelligence an
 ## 💻 Some of my projects
 
 - Smart Irrigation System: An IoT project that controls irrigation of crops using machine learning.
+- Automated face detection biometric system using opencv and iot
 
 ## 📫 How to reach me
 
