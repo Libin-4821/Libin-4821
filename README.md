@@ -1,6 +1,6 @@
 # Hi, I'm Libin S 👋
 
-I'm a pre - final year B.Tech student with specialization in Artificial Intelligence and Data Science at Rajalakshmi Institute of Technology. I'm passionate about solving real-world problems using data, AI, and IoT.
+I'm a final year B.Tech student with specialization in Artificial Intelligence and Data Science at Rajalakshmi Institute of Technology. I'm passionate about solving real-world problems using data, AI, and IoT.
 
 ## 🚀 My skills
 
